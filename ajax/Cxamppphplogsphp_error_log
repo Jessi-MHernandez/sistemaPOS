@@ -1,0 +1,252 @@
+[16-Jul-2020 19:53:54 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:53:54 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:10 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:10 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:13 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:13 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:17 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:17 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:21 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 19:54:21 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 20:09:11 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[16-Jul-2020 20:09:11 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 14:58:47 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 14:58:47 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:01:57 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:01:57 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:02:24 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:02:24 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:07:39 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:07:39 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:30:53 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:30:53 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:40:48 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:40:48 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:46:22 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:46:22 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:52:35 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(22): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-productos.ajax.php(116): TablaProductos::mostrarTablaProductos()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
+[17-Jul-2020 15:52:35 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in C:\xampp\htdocs\pos\modelos\conexion.php:9
+Stack trace:
+#0 C:\xampp\htdocs\pos\modelos\conexion.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\pos\modelos\productos.modelo.php(25): Conexion::conectar()
+#2 C:\xampp\htdocs\pos\controladores\productos.controlador.php(14): ModeloProductos::mdlMostrarProductos('productos', NULL, NULL, 'id')
+#3 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(19): ControladorProductos::ctrMostrarProductos(NULL, NULL, 'id')
+#4 C:\xampp\htdocs\pos\ajax\datatable-ventas.ajax.php(92): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in C:\xampp\htdocs\pos\modelos\conexion.php on line 9
